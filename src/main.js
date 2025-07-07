@@ -1,0 +1,1 @@
+document.getElementById('app').innerText = '你好，Vite 部署成功！';
